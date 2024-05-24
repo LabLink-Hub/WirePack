@@ -1,0 +1,23 @@
+{
+  "name": "WirePack",
+  "version": "0.0.1",
+  "description": "WirePack adds utilities for serializing, deserializing, and parsing objects",
+  "keywords": "serialize, deserialize, json, http, validation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MasonWray/WirePack.git"
+  },
+  "authors": [
+    {
+      "name": "Mason Wray",
+      "email": "mason@emerson-labs.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MasonWray/WirePack.git",
+  "dependencies": {
+    "bblanchon/ArduinoJson": "7.0.4"
+  },
+  "frameworks": "Arduino",
+  "platforms": "ESP32"
+}
